@@ -1,6 +1,6 @@
 import { useState, useEffect } from 'react'
 import './App.css'
-import Preloader from './preloader'
+import Preloader from './Preloader'
 import Clock from './Clock'
 
 function App() {
